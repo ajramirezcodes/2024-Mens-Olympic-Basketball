@@ -1,6 +1,6 @@
 # Team USA Basketball Roster (Interactive Web App)
 
-This is a dynamic and interactive player card project for the Team USA Men's Basketball roster. Built using HTML, CSS, and JavaScript, the project visually showcases each player's image, stats, and highlights in a responsive and engaging layout.
+This is a dynamic and interactive player card project for the Team USA Men's Basketball roster. This project visually showcases each player's image, stats, and highlights in a responsive and engaging layout.
 
 ## Features
 
