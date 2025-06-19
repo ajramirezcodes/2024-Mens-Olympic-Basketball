@@ -18,4 +18,6 @@ This is a dynamic and interactive player card project for the Team USA Men's Bas
 - YouTube Embed API – For loading player highlight videos
 
 **Live Link Here**
-https://ajramirezcodes.github.io/2024-Mens-Olympic-Basketball/
+
+[Click here to view the live site](https://ajramirezcodes.github.io/2024-Mens-Olympic-Basketball/)
+
